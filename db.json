@@ -1,0 +1,32 @@
+{
+  "bookings": [
+    {
+      "id": "b4a5",
+      "nama": "1",
+      "tanggal": "2025-07-06",
+      "jam": "00:48",
+      "layanan": "Cukur"
+    },
+    {
+      "id": "36c3",
+      "nama": "IRUL",
+      "tanggal": "2025-07-06",
+      "jam": "07:48",
+      "layanan": "Coloring"
+    },
+    {
+      "id": "12fd",
+      "nama": "tata",
+      "tanggal": "2025-07-07",
+      "jam": "10:53",
+      "layanan": "Styling"
+    },
+    {
+      "id": "1a53",
+      "nama": "IRUL",
+      "tanggal": "2025-07-08",
+      "jam": "00:57",
+      "layanan": "Styling"
+    }
+  ]
+}
